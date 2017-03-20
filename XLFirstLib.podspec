@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "XLFirstLib"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "XLFirstLib 介绍"
 
 
